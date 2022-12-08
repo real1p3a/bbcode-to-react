@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/JimLiu/bbcode-to-react.git"
+    "url": "git+ssh://git@github.com/real1p3a/bbcode-to-react.git"
   },
   "files": [
     "LICENSE",
@@ -36,7 +36,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JimLiu/bbcode-to-react/issues"
+    "url": "https://github.com/real1p3a/bbcode-to-react/issues"
   },
   "tonicExampleFilename": "tonic-example.js",
   "homepage": "https://github.com/JimLiu/bbcode-to-react#readme",
